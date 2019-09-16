@@ -1,0 +1,15 @@
+{
+  "name": "hello-dojo",
+  "version": "1.0.0",
+  "description": "A simple dojo test",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gate3",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
